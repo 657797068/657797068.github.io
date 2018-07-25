@@ -1,0 +1,25 @@
+
+
+@import "common/swiper-3.3.1.min.css";
+@import "common/mobile";
+@import "common/mint-ui.css";
+
+// @import "common/element-ui.css";
+
+@import "../assets/iconfont/iconfont.css";
+@import "page/foot.scss";
+
+
+html,body,#app,.startPage{
+    width: 100%;
+    height: 100%;
+}
+.clear:after{
+    content:"";
+    display:block;
+    clear:both;
+    height:0;
+    overflow:hidden;
+    visibility:hidden;
+    }
+    .clear{zoom:1;}
