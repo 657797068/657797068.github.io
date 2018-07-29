@@ -3,4 +3,4 @@
 # vue  
 
 
-下载后  npm i 后npm start可直接查看本demo
+下载到本地  npm i 后 npm start可直接查看本demo
